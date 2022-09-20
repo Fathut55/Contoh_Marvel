@@ -28,6 +28,8 @@ int main(){
 	x = sqrt(x);
 	
 	printf("\nJarak Euclidean antara titik P1 dan P2 = %.10lf", x);
+	
+	print("Hello boss");
 		
 	return 0;
 }
